@@ -1,0 +1,16 @@
+body 
+{
+    font-family: Arial; 
+    background-color: orange;
+}
+
+#main-title 
+{
+    text-align: center;
+	font-family: "Times New Roman";
+}
+
+.content 
+{
+    margin-bottom: 12px;
+}
